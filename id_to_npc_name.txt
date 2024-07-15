@@ -1,3 +1,6 @@
+This is the 8-bit value of 0x0b8878
+
+
 55 => West (First duel in the Story Mode)
 
 71 => Moja
