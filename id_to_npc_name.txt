@@ -1,7 +1,14 @@
 This is the 8-bit value of 0x0b8878
 
+STORY MODE
 
 55 => West (First duel in the Story Mode)
+56 => Nico (Second duel in Story Mode)
+
+
+
+
+FREE DUEL
 
 71 => Moja
 72 => Cherry Inmato
