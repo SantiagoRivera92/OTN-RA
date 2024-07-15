@@ -16,3 +16,7 @@ FREE DUEL
 74 => Naturia Cherries
 75 => Wattmole
 76 => Tiki Curse
+
+
+
+95 => Master Hyperion
