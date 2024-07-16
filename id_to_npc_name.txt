@@ -1,140 +1,151 @@
-NPC Indentifier: 0x0b8b1c
+NPC Indentifier: 0x0b8b1c (16 bit)
 
 CPU DUEL
 
-2d => Moja
-2e => Cherry Inmato
-2f => Hypnocorn
-30 => Naturia Cherries
-31 => Wattmole
-32 => Tiki Curse
-33 => Tender to the Laval Volcano
-34 => Gishki Erial
-35 => Genex Ally Axel
-36 => Gem-Knight Prism Aura
-37 => Thunder Unicorn
-38 => Wynnda, Princess of Gusto
-39 => Masked Hero Vapor
-3a => King Tiger Wanghu
-3b => Wightmare
-3c => Amazoness Queen
-3d => Reptilianne Vaskii
-3e => Great Maju Garzett
-3f => Karakuri Steel Shogun mdl 00X "Bureido"
-40 => Needle Borrower
-41 => Magical Merchant
-42 => Legendary Jujitsu Master
-43 => Ronintoadin
-44 => Vylon Omega
-45 => Naturia Bamboo Shoot
-46 => Wattchimera
-47 => Fabled Ragin
-48 => Worm Ilidan
-49 => Koa'ki Meiru Maximus
-4a => Gravekeeper's Vision
-4b => Herald of Perfection
-4c => Flamvell Baby
-4d => Scrap Twin Dragon
-4e => Earthbound Immortal Ccapac Apu
-4f => Steelswarm Caucastag
-50 => Deep Sea Diva
-51 => Master Hyperion
-52 => Power Tool Dragon
-53 => Stardust Dragon/Assault Mode
-54 => Dark Simorgh
-55 => Thunder King Rai-Oh
-56 => Bountiful Artemis
-57 => Queen Angel of Roses
-58 => Meklord Emperor Granel
-59 => Archlord Kristya
-5a => Evil Hero Dark Gaia
-5b => Guardian Eatos
-5c => Thestalos the Firestorm Monarch
-5d => Gladiator Beast Gyzarus
-5e => X-Saber Souza
-5f => Infernity Doom Dragon
-60 => Junk Destroyer
-61 => Malefic Paradox Dragon
-62 => Ehren, Lightsworn Monk
-63 => Dragunity Arma Leyvaten
-64 => Elemental Hero The Shining
-65 => Red-Eyes Darkness Metal Dragon
-66 => Blackwing - Zephyros the Elite
-67 => Legendary Six Samurai - Shi En
-68 => Machina Fortress
+002d => Moja
+002e => Cherry Inmato
+002f => Hypnocorn
+0030 => Naturia Cherries
+0031 => Wattmole
+0032 => Tiki Curse
+0033 => Tender to the Laval Volcano
+0034 => Gishki Erial
+0035 => Genex Ally Axel
+0036 => Gem-Knight Prism Aura
+0037 => Thunder Unicorn
+0038 => Wynnda, Princess of Gusto
+0039 => Masked Hero Vapor
+003a => King Tiger Wanghu
+003b => Wightmare
+003c => Amazoness Queen
+003d => Reptilianne Vaskii
+003e => Great Maju Garzett
+003f => Karakuri Steel Shogun mdl 00X "Bureido"
+0040 => Needle Borrower
+0041 => Magical Merchant
+0042 => Legendary Jujitsu Master
+0043 => Ronintoadin
+0044 => Vylon Omega
+0045 => Naturia Bamboo Shoot
+0046 => Wattchimera
+0047 => Fabled Ragin
+0048 => Worm Ilidan
+0049 => Koa'ki Meiru Maximus
+004a => Gravekeeper's Vision
+004b => Herald of Perfection
+004c => Flamvell Baby
+004d => Scrap Twin Dragon
+004e => Earthbound Immortal Ccapac Apu
+004f => Steelswarm Caucastag
+0050 => Deep Sea Diva
+0051 => Master Hyperion
+0052 => Power Tool Dragon
+0053 => Stardust Dragon/Assault Mode
+0054 => Dark Simorgh
+0055 => Thunder King Rai-Oh
+0056 => Bountiful Artemis
+0057 => Queen Angel of Roses
+0058 => Meklord Emperor Granel
+0059 => Archlord Kristya
+005a => Evil Hero Dark Gaia
+005b => Guardian Eatos
+005c => Thestalos the Firestorm Monarch
+005d => Gladiator Beast Gyzarus
+005e => X-Saber Souza
+005f => Infernity Doom Dragon
+0060 => Junk Destroyer
+0061 => Malefic Paradox Dragon
+0062 => Ehren, Lightsworn Monk
+0063 => Dragunity Arma Leyvaten
+0064 => Elemental Hero The Shining
+0065 => Red-Eyes Darkness Metal Dragon
+0066 => Blackwing - Zephyros the Elite
+0067 => Legendary Six Samurai - Shi En
+0068 => Machina Fortress
 
 CPU TAG DUEL (These increase by 2! I assume it's because they have to store the name of both duelists with an unique ID)
 
-69 => Harmonic Resonators
-6b => Shallow Eon Leaders
-6d => Comers & Goers
-6f => Dark Fighting Spirit
-71 => Downy Duo
-73 => Fool Around Get Hurt
-75 => Forbidding Fellows
-77 => Burn Girls
-79 => 100-Monster Parade
-7b => Terrorizing Tyrants
-7d => Alien Meets Snake
-7f => Stardust Battle
-81 => Samurai Twelve
-83 => Girls-Only Duel
-85 => Dark Sea Ritual
-87 => Flash! Fusion!
-89 => Sky Masters
-8b => Dimension Walkers
-8d => Queen's Collection
-8f => Moon & Sun
+0069 => Harmonic Resonators
+006b => Shallow Eon Leaders
+006d => Comers & Goers
+006f => Dark Fighting Spirit
+0071 => Downy Duo
+0073 => Fool Around Get Hurt
+0075 => Forbidding Fellows
+0077 => Burn Girls
+0079 => 100-Monster Parade
+007b => Terrorizing Tyrants
+007d => Alien Meets Snake
+007f => Stardust Battle
+0081 => Samurai Twelve
+0083 => Girls-Only Duel
+0085 => Dark Sea Ritual
+0087 => Flash! Fusion!
+0089 => Sky Masters
+008b => Dimension Walkers
+008d => Queen's Collection
+008f => Moon & Sun
 
 CPU TURBO DUEL
 
-91 => The Little Swordsman of Aile
-92 => Dragon Manipulator
-93 => Steamroid
-94 => Psychic Commander
-95 => Naturia Dragonfly
-96 => Dokurorider
-97 => Mefist the Infernal General
-98 => Delta Tri
-99 => Vylon Sigma
-9a => Ally of Justice Searcher
-9b => Kasha
-9c => Destiny Hero - Dasher
-9d => Gaia Drake, the Universal Force
-9e => Fossil Dyna Pachycephalo
-9f => Dragunity Knight - Gae Bulg
-a0 => Formula Synchron
-a1 => Earthbound Immortal Aslla Piscu
-a2 => Judgment Dragon
-a3 => Machina Fortress
-a4 => Malefic Stardust Dragon
+0091 => The Little Swordsman of Aile
+0092 => Dragon Manipulator
+0093 => Steamroid
+0094 => Psychic Commander
+0095 => Naturia Dragonfly
+0096 => Dokurorider
+0097 => Mefist the Infernal General
+0098 => Delta Tri
+0099 => Vylon Sigma
+009a => Ally of Justice Searcher
+009b => Kasha
+009c => Destiny Hero - Dasher
+009d => Gaia Drake, the Universal Force
+009e => Fossil Dyna Pachycephalo
+009f => Dragunity Knight - Gae Bulg
+00a0 => Formula Synchron
+00a1 => Earthbound Immortal Aslla Piscu
+00a2 => Judgment Dragon
+00a3 => Machina Fortress
+00a4 => Malefic Stardust Dragon
 
 CPU TAG TURBO DUEL
 
-a5 => Riding Cycles
-a7 => Sonic Sprint
-a9 => Sort of Wild Charge
-ab => Food Chain Friends
-ad => Down to the Sea
-af => We're on a Mission
-b1 => Underworld Cops
-b3 => Unified in Darkness
-b5 => Hurricane Regiment
-b7 => You-Go!
+00a5 => Riding Cycles
+00a7 => Sonic Sprint
+00a9 => Sort of Wild Charge
+00ab => Food Chain Friends
+00ad => Down to the Sea
+00af => We're on a Mission
+00b1 => Underworld Cops
+00b3 => Unified in Darkness
+00b5 => Hurricane Regiment
+00b7 => You-Go!
 
 DUEL GHOSTS
 
-b9 = Duelua
-ba = Legendary Six Samurai - Kizan
-bb = Dueluka
-bc = Phoenixian Cluster Amaryllis
+00b9 = Duelua
+00ba = Legendary Six Samurai - Kizan
+00bb = Dueluka
+00bc = Phoenixian Cluster Amaryllis
 
 DUEL PUZZLES
 
-c4 => Duel Puzzle (Can't really tell which one though)
+00c4 => Duel Puzzle (Can't really tell which one though)
+
+We can tell which Duel Puzzle we just won by checking 0x29534c, which contains the reward for a won duel. Crash Town puzzles give you 200-400-600-800-1000, while the New Domino City ones give you 1200-1400-1600-1800-2000.
 
 
 STORY MODE
 
-db => West (First duel in the Story Mode)
-dc => Nico (Second duel in Story Mode)
+00db => West (First duel in the Story Mode)
+00dc => Nico (Second duel in Story Mode)
+006e => Bronson (Third duel in Story Mode)
+
+04c3 => West (First duel in the Rental Duel championship)
+08ac => Nico (Second duel in the Rental Duel championship)
+13a7 => Narumi (Third duel in the Rental Duel championship)
+
+04d3 => Clint (NPC outside of Ramon's Diner in Crash Town)
+04d5 => Inegishi (NPC left to the crossroads in Crash Town)
+0fbf => Iranami (NPC in the Crash Town card shop)
