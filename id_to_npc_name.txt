@@ -129,6 +129,11 @@ ba = Legendary Six Samurai - Kizan
 bb = Dueluka
 bc = Phoenixian Cluster Amaryllis
 
+DUEL PUZZLES
+
+c4 => Duel Puzzle (Can't really tell which one though)
+
+
 STORY MODE
 
 db => West (First duel in the Story Mode)
