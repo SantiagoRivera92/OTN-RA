@@ -138,7 +138,7 @@ DUEL PUZZLES
 
 STORY MODE
 
---- Start of Achievement-worthy duels ---
+--- These duels are tied to progression and therefore may get achievements attached
 
   01db => West (First duel in the Story Mode)
   01dc => Nico (Second duel in Story Mode)
@@ -155,18 +155,13 @@ STORY MODE
   00cb => Misaki (Thirteenth duel in Story Mode)
   0015 => Blister / Bolt Tanner (Fourteenth duel in Story Mode)
 
---- End of Achievement-worthy duels ---
-
---- Start of Rental Duel Tournament in Crash Town ---
+--- End of progression duels
 
   04c3 => West (First duel in the Rental Duel championship)
   08ac => Nico (Second duel in the Rental Duel championship)
   13a7 => Narumi (Third duel in the Rental Duel championship)
 
---- End of Rental Duel Tournament in Crash Town ---
 
---- Random NPCs ---
-  
   04d3 => Clint (NPC outside of Ramon's Diner in Crash Town)
   04d5 => Inegishi (NPC left to the crossroads in Crash Town)
   0fbf => Iranami (NPC in the Crash Town card shop)
@@ -181,5 +176,3 @@ STORY MODE
   0044 => Corse (NPC in the underground floor of the Gladiator Arena in New Domino City)
   00ca => Toru (NPC in your hideout in New Domino City)
   0038 => Honda (NPC outside your apartment in New Domino City after you get the suit)
-
---- End of Random NPCs ---
