@@ -138,9 +138,22 @@ We can tell which Duel Puzzle we just won by checking 0x29534c, which contains t
 
 STORY MODE
 
+--- Start of Achievement-worthy duels ---
+
 01db => West (First duel in the Story Mode)
 01dc => Nico (Second duel in Story Mode)
 006e => Bronson (Third duel in Story Mode)
+007d => Crow (Fourth duel in Story Mode)
+0084 => Gordon (Fifth duel in Story Mode)
+007c => Jack Atlas (Sixth duel in Story Mode)
+006b => Kalin Kessler (Seventh duel in Story Mode)
+007b => Yusei Fudo (Eight duel in Story Mode)
+00eb => Virgil (Ninth duel in Story Mode)
+00ed => Jemma (Tenth duel in Story Mode)
+00ec => Scotch (Eleventh duel in Story Mode)
+00c9 => Klaus (Twelfth duel in Story Mode)
+
+--- End of Achievement-worthy duels ---
 
 04c3 => West (First duel in the Rental Duel championship)
 08ac => Nico (Second duel in the Rental Duel championship)
@@ -149,3 +162,5 @@ STORY MODE
 04d3 => Clint (NPC outside of Ramon's Diner in Crash Town)
 04d5 => Inegishi (NPC left to the crossroads in Crash Town)
 0fbf => Iranami (NPC in the Crash Town card shop)
+0021 => Masaki (NPC in Satellite)
+0019 => Reimi (NPC in Satellite)
