@@ -152,6 +152,7 @@ STORY MODE
 00ed => Jemma (Tenth duel in Story Mode)
 00ec => Scotch (Eleventh duel in Story Mode)
 00c9 => Klaus (Twelfth duel in Story Mode)
+00cb => Misaki (Thirteenth duel in Story Mode)
 
 --- End of Achievement-worthy duels ---
 
@@ -166,3 +167,6 @@ STORY MODE
 0019 => Reimi (NPC in Satellite)
 001b => Kazuhiro (NPC in New Domino City)
 002f => Helio (NPC in the New Domino City card shop)
+0068 => Nelson (NPC in the first floor of the Gladiator Arena in New Domino City)
+0043 => Angie (NPC in the first floor of the Gladiator Arena in New Domino City)
+0044 => Corse (NPC in the underground floor of the Gladiator Arena in New Domino City)
