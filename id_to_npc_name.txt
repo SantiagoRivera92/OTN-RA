@@ -154,13 +154,20 @@ STORY MODE
   00c9 => Klaus (Twelfth duel in Story Mode)
   00cb => Misaki (Thirteenth duel in Story Mode)
   0015 => Blister / Bolt Tanner (Fourteenth duel in Story Mode)
+  27da => Toru (Fifteenth duel in Story Mode, Turbo Duel)
+  00ee => Seluga (Sixteenth duel in Story Mode)
 
 --- End of progression duels
+
+
+--- RENTAL DUELS: These should NOT give side achievements
 
   04c3 => West (First duel in the Rental Duel championship)
   08ac => Nico (Second duel in the Rental Duel championship)
   13a7 => Narumi (Third duel in the Rental Duel championship)
+  002e => Noko (NPC in New Domino City, appears where you got the frame for the Duel Runner after you get the suit)
 
+--- End of Rental Duels ---
 
   04d3 => Clint (NPC outside of Ramon's Diner in Crash Town)
   04d5 => Inegishi (NPC left to the crossroads in Crash Town)
@@ -176,3 +183,4 @@ STORY MODE
   0044 => Corse (NPC in the underground floor of the Gladiator Arena in New Domino City)
   00ca => Toru (NPC in your hideout in New Domino City)
   0038 => Honda (NPC outside your apartment in New Domino City after you get the suit)
+  001d => Figaro (NPC in the underground floor of the Gladiator Arena in New Domino City, appears after you get the suit)
