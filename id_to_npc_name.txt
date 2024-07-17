@@ -167,6 +167,8 @@ STORY MODE
 0019 => Reimi (NPC in Satellite)
 001b => Kazuhiro (NPC in New Domino City)
 002f => Helio (NPC in the New Domino City card shop)
+0090 => Yagiura (NPC in New Domino City)
+000a => Chief (NPC in New Domino City)
 0068 => Nelson (NPC in the first floor of the Gladiator Arena in New Domino City)
 0043 => Angie (NPC in the first floor of the Gladiator Arena in New Domino City)
 0044 => Corse (NPC in the underground floor of the Gladiator Arena in New Domino City)
