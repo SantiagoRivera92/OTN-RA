@@ -164,3 +164,5 @@ STORY MODE
 0fbf => Iranami (NPC in the Crash Town card shop)
 0021 => Masaki (NPC in Satellite)
 0019 => Reimi (NPC in Satellite)
+001b => Kazuhiro (NPC in New Domino City)
+002f => Helio (NPC in the New Domino City card shop)
