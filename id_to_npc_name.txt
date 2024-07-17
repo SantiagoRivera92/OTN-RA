@@ -2,173 +2,184 @@ NPC Indentifier: 0x0b8b1c (16 bit)
 
 CPU DUEL
 
-012d => Moja
-012e => Cherry Inmato
-012f => Hypnocorn
-0130 => Naturia Cherries
-0131 => Wattmole
-0132 => Tiki Curse
-0133 => Tender to the Laval Volcano
-0134 => Gishki Erial
-0135 => Genex Ally Axel
-0136 => Gem-Knight Prism Aura
-0137 => Thunder Unicorn
-0138 => Wynnda, Princess of Gusto
-0139 => Masked Hero Vapor
-013a => King Tiger Wanghu
-013b => Wightmare
-013c => Amazoness Queen
-013d => Reptilianne Vaskii
-013e => Great Maju Garzett
-013f => Karakuri Steel Shogun mdl 00X "Bureido"
-0140 => Needle Borrower
-0141 => Magical Merchant
-0142 => Legendary Jujitsu Master
-0143 => Ronintoadin
-0144 => Vylon Omega
-0145 => Naturia Bamboo Shoot
-0146 => Wattchimera
-0147 => Fabled Ragin
-0148 => Worm Ilidan
-0149 => Koa'ki Meiru Maximus
-014a => Gravekeeper's Vision
-014b => Herald of Perfection
-014c => Flamvell Baby
-014d => Scrap Twin Dragon
-014e => Earthbound Immortal Ccapac Apu
-014f => Steelswarm Caucastag
-0150 => Deep Sea Diva
-0151 => Master Hyperion
-0152 => Power Tool Dragon
-0153 => Stardust Dragon/Assault Mode
-0154 => Dark Simorgh
-0155 => Thunder King Rai-Oh
-0156 => Bountiful Artemis
-0157 => Queen Angel of Roses
-0158 => Meklord Emperor Granel
-0159 => Archlord Kristya
-015a => Evil Hero Dark Gaia
-015b => Guardian Eatos
-015c => Thestalos the Firestorm Monarch
-015d => Gladiator Beast Gyzarus
-015e => X-Saber Souza
-015f => Infernity Doom Dragon
-0160 => Junk Destroyer
-0161 => Malefic Paradox Dragon
-0162 => Ehren, Lightsworn Monk
-0163 => Dragunity Arma Leyvaten
-0164 => Elemental Hero The Shining
-0165 => Red-Eyes Darkness Metal Dragon
-0166 => Blackwing - Zephyros the Elite
-0167 => Legendary Six Samurai - Shi En
-0168 => Machina Fortress
+  012d => Moja
+  012e => Cherry Inmato
+  012f => Hypnocorn
+  0130 => Naturia Cherries
+  0131 => Wattmole
+  0132 => Tiki Curse
+  0133 => Tender to the Laval Volcano
+  0134 => Gishki Erial
+  0135 => Genex Ally Axel
+  0136 => Gem-Knight Prism Aura
+  0137 => Thunder Unicorn
+  0138 => Wynnda, Princess of Gusto
+  0139 => Masked Hero Vapor
+  013a => King Tiger Wanghu
+  013b => Wightmare
+  013c => Amazoness Queen
+  013d => Reptilianne Vaskii
+  013e => Great Maju Garzett
+  013f => Karakuri Steel Shogun mdl 00X "Bureido"
+  0140 => Needle Borrower
+  0141 => Magical Merchant
+  0142 => Legendary Jujitsu Master
+  0143 => Ronintoadin
+  0144 => Vylon Omega
+  0145 => Naturia Bamboo Shoot
+  0146 => Wattchimera
+  0147 => Fabled Ragin
+  0148 => Worm Ilidan
+  0149 => Koa'ki Meiru Maximus
+  014a => Gravekeeper's Vision
+  014b => Herald of Perfection
+  014c => Flamvell Baby
+  014d => Scrap Twin Dragon
+  014e => Earthbound Immortal Ccapac Apu
+  014f => Steelswarm Caucastag
+  0150 => Deep Sea Diva
+  0151 => Master Hyperion
+  0152 => Power Tool Dragon
+  0153 => Stardust Dragon/Assault Mode
+  0154 => Dark Simorgh
+  0155 => Thunder King Rai-Oh
+  0156 => Bountiful Artemis
+  0157 => Queen Angel of Roses
+  0158 => Meklord Emperor Granel
+  0159 => Archlord Kristya
+  015a => Evil Hero Dark Gaia
+  015b => Guardian Eatos
+  015c => Thestalos the Firestorm Monarch
+  015d => Gladiator Beast Gyzarus
+  015e => X-Saber Souza
+  015f => Infernity Doom Dragon
+  0160 => Junk Destroyer
+  0161 => Malefic Paradox Dragon
+  0162 => Ehren, Lightsworn Monk
+  0163 => Dragunity Arma Leyvaten
+  0164 => Elemental Hero The Shining
+  0165 => Red-Eyes Darkness Metal Dragon
+  0166 => Blackwing - Zephyros the Elite
+  0167 => Legendary Six Samurai - Shi En
+  0168 => Machina Fortress
 
 CPU TAG DUEL (These increase by 2! I assume it's because they have to store the name of both duelists with an unique ID)
 
-0169 => Harmonic Resonators
-016b => Shallow Eon Leaders
-016d => Comers & Goers
-016f => Dark Fighting Spirit
-0171 => Downy Duo
-0173 => Fool Around Get Hurt
-0175 => Forbidding Fellows
-0177 => Burn Girls
-0179 => 100-Monster Parade
-017b => Terrorizing Tyrants
-017d => Alien Meets Snake
-017f => Stardust Battle
-0181 => Samurai Twelve
-0183 => Girls-Only Duel
-0185 => Dark Sea Ritual
-0187 => Flash! Fusion!
-0189 => Sky Masters
-018b => Dimension Walkers
-018d => Queen's Collection
-018f => Moon & Sun
+  0169 => Harmonic Resonators
+  016b => Shallow Eon Leaders
+  016d => Comers & Goers
+  016f => Dark Fighting Spirit
+  0171 => Downy Duo
+  0173 => Fool Around Get Hurt
+  0175 => Forbidding Fellows
+  0177 => Burn Girls
+  0179 => 100-Monster Parade
+  017b => Terrorizing Tyrants
+  017d => Alien Meets Snake
+  017f => Stardust Battle
+  0181 => Samurai Twelve
+  0183 => Girls-Only Duel
+  0185 => Dark Sea Ritual
+  0187 => Flash! Fusion!
+  0189 => Sky Masters
+  018b => Dimension Walkers
+  018d => Queen's Collection
+  018f => Moon & Sun
 
 CPU TURBO DUEL
 
-0191 => The Little Swordsman of Aile
-0192 => Dragon Manipulator
-0193 => Steamroid
-0194 => Psychic Commander
-0195 => Naturia Dragonfly
-0196 => Dokurorider
-0197 => Mefist the Infernal General
-0198 => Delta Tri
-0199 => Vylon Sigma
-019a => Ally of Justice Searcher
-019b => Kasha
-019c => Destiny Hero - Dasher
-019d => Gaia Drake, the Universal Force
-019e => Fossil Dyna Pachycephalo
-019f => Dragunity Knight - Gae Bulg
-01a0 => Formula Synchron
-01a1 => Earthbound Immortal Aslla Piscu
-01a2 => Judgment Dragon
-01a3 => Machina Fortress
-01a4 => Malefic Stardust Dragon
+  0191 => The Little Swordsman of Aile
+  0192 => Dragon Manipulator
+  0193 => Steamroid
+  0194 => Psychic Commander
+  0195 => Naturia Dragonfly
+  0196 => Dokurorider
+  0197 => Mefist the Infernal General
+  0198 => Delta Tri
+  0199 => Vylon Sigma
+  019a => Ally of Justice Searcher
+  019b => Kasha
+  019c => Destiny Hero - Dasher
+  019d => Gaia Drake, the Universal Force
+  019e => Fossil Dyna Pachycephalo
+  019f => Dragunity Knight - Gae Bulg
+  01a0 => Formula Synchron
+  01a1 => Earthbound Immortal Aslla Piscu
+  01a2 => Judgment Dragon
+  01a3 => Machina Fortress
+  01a4 => Malefic Stardust Dragon
 
 CPU TAG TURBO DUEL
 
-01a5 => Riding Cycles
-01a7 => Sonic Sprint
-01a9 => Sort of Wild Charge
-01ab => Food Chain Friends
-01ad => Down to the Sea
-01af => We're on a Mission
-01b1 => Underworld Cops
-01b3 => Unified in Darkness
-01b5 => Hurricane Regiment
-01b7 => You-Go!
+  01a5 => Riding Cycles
+  01a7 => Sonic Sprint
+  01a9 => Sort of Wild Charge
+  01ab => Food Chain Friends
+  01ad => Down to the Sea
+  01af => We're on a Mission
+  01b1 => Underworld Cops
+  01b3 => Unified in Darkness
+  01b5 => Hurricane Regiment
+  01b7 => You-Go!
 
 DUEL GHOSTS
 
-01b9 = Duelua
-01ba = Legendary Six Samurai - Kizan
-01bb = Dueluka
-01bc = Phoenixian Cluster Amaryllis
+  01b9 = Duelua
+  01ba = Legendary Six Samurai - Kizan
+  01bb = Dueluka
+  01bc = Phoenixian Cluster Amaryllis
 
 DUEL PUZZLES
 
-04c4 => Duel Puzzle (Can't really tell which one though)
+  04c4 => Duel Puzzle (Can't really tell which one though)
+  0016 => New Domino Duel Puzzle
 
-We can tell which Duel Puzzle we just won by checking 0x29534c, which contains the reward for a won duel. Crash Town puzzles give you 200-400-600-800-1000, while the New Domino City ones give you 1200-1400-1600-1800-2000.
-
+  0x29534c contains the reward for a won duel. Crash Town puzzles give you 200-400-600-800-1000, while the New Domino City ones give you 1200-1400-1600-1800-2000.
 
 STORY MODE
 
 --- Start of Achievement-worthy duels ---
 
-01db => West (First duel in the Story Mode)
-01dc => Nico (Second duel in Story Mode)
-006e => Bronson (Third duel in Story Mode)
-007d => Crow (Fourth duel in Story Mode)
-0084 => Gordon (Fifth duel in Story Mode)
-007c => Jack Atlas (Sixth duel in Story Mode)
-006b => Kalin Kessler (Seventh duel in Story Mode)
-007b => Yusei Fudo (Eight duel in Story Mode)
-00eb => Virgil (Ninth duel in Story Mode)
-00ed => Jemma (Tenth duel in Story Mode)
-00ec => Scotch (Eleventh duel in Story Mode)
-00c9 => Klaus (Twelfth duel in Story Mode)
-00cb => Misaki (Thirteenth duel in Story Mode)
+  01db => West (First duel in the Story Mode)
+  01dc => Nico (Second duel in Story Mode)
+  006e => Bronson (Third duel in Story Mode)
+  007d => Crow (Fourth duel in Story Mode)
+  0084 => Gordon (Fifth duel in Story Mode)
+  007c => Jack Atlas (Sixth duel in Story Mode)
+  006b => Kalin Kessler (Seventh duel in Story Mode)
+  007b => Yusei Fudo (Eight duel in Story Mode)
+  00eb => Virgil (Ninth duel in Story Mode)
+  00ed => Jemma (Tenth duel in Story Mode)
+  00ec => Scotch (Eleventh duel in Story Mode)
+  00c9 => Klaus (Twelfth duel in Story Mode)
+  00cb => Misaki (Thirteenth duel in Story Mode)
+  0015 => Blister / Bolt Tanner (Fourteenth duel in Story Mode)
 
 --- End of Achievement-worthy duels ---
 
-04c3 => West (First duel in the Rental Duel championship)
-08ac => Nico (Second duel in the Rental Duel championship)
-13a7 => Narumi (Third duel in the Rental Duel championship)
+--- Start of Rental Duel Tournament in Crash Town ---
 
-04d3 => Clint (NPC outside of Ramon's Diner in Crash Town)
-04d5 => Inegishi (NPC left to the crossroads in Crash Town)
-0fbf => Iranami (NPC in the Crash Town card shop)
-0021 => Masaki (NPC in Satellite)
-0019 => Reimi (NPC in Satellite)
-001b => Kazuhiro (NPC in New Domino City)
-002f => Helio (NPC in the New Domino City card shop)
-0090 => Yagiura (NPC in New Domino City)
-000a => Chief (NPC in New Domino City)
-0068 => Nelson (NPC in the first floor of the Gladiator Arena in New Domino City)
-0043 => Angie (NPC in the first floor of the Gladiator Arena in New Domino City)
-0044 => Corse (NPC in the underground floor of the Gladiator Arena in New Domino City)
+  04c3 => West (First duel in the Rental Duel championship)
+  08ac => Nico (Second duel in the Rental Duel championship)
+  13a7 => Narumi (Third duel in the Rental Duel championship)
+
+--- End of Rental Duel Tournament in Crash Town ---
+
+--- Random NPCs ---
+  
+  04d3 => Clint (NPC outside of Ramon's Diner in Crash Town)
+  04d5 => Inegishi (NPC left to the crossroads in Crash Town)
+  0fbf => Iranami (NPC in the Crash Town card shop)
+  0021 => Masaki (NPC in Satellite)
+  0019 => Reimi (NPC in Satellite)
+  001b => Kazuhiro (NPC in New Domino City)
+  002f => Helio (NPC in the New Domino City card shop)
+  0090 => Yagiura (NPC in New Domino City)
+  000a => Chief (NPC in New Domino City)
+  0068 => Nelson (NPC in the first floor of the Gladiator Arena in New Domino City)
+  0043 => Angie (NPC in the first floor of the Gladiator Arena in New Domino City)
+  0044 => Corse (NPC in the underground floor of the Gladiator Arena in New Domino City)
+  00ca => Toru (NPC in your hideout in New Domino City)
+  0038 => Honda (NPC outside your apartment in New Domino City after you get the suit)
+
+--- End of Random NPCs ---
