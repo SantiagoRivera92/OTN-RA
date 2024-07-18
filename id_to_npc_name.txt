@@ -160,6 +160,9 @@ STORY MODE
   00d3 => Kalin Kessler (Eighteenth duel in Story Mode)
   00d7 => Ramon (Nineteenth duel in Story Mode)
   00d9 => Lawton (Twentieth duel in Story Mode, hardest duel so far lol)
+  00f9 => Ghost (Twenty-first duel in Story Mode)
+  2791 => Akiza Izinski (Twenty-second duel in Story Mode)
+  27df => Crow Hogan (Twenty-third duel in Story Mode)
 
 --- End of progression duels
 
@@ -188,3 +191,7 @@ STORY MODE
   00ca => Toru (NPC in your hideout in New Domino City)
   0038 => Honda (NPC outside your apartment in New Domino City after you get the suit)
   001d => Figaro (NPC in the underground floor of the Gladiator Arena in New Domino City, appears after you get the suit)
+  0080 => Dexter (NPC in Fountain Plaza)
+  0069 => Carly Carmine (NPC in Fountain Plaza)
+  00ea => Stephanie (NPC in Fountain Plaza)
+  003a => Sumetana (NPC in Fountain Plaza, directly outside of the back door in Yusei's garage)
