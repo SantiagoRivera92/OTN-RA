@@ -156,6 +156,10 @@ STORY MODE
   0015 => Blister / Bolt Tanner (Fourteenth duel in Story Mode)
   27da => Toru (Fifteenth duel in Story Mode, Turbo Duel)
   00ee => Seluga (Sixteenth duel in Story Mode)
+  00d8 => Malcolm (Seventeenth duel in Story Mode)
+  00d3 => Kalin Kessler (Eighteenth duel in Story Mode)
+  00d7 => Ramon (Nineteenth duel in Story Mode)
+  00d9 => Lawton (Twentieth duel in Story Mode, hardest duel so far lol)
 
 --- End of progression duels
 
