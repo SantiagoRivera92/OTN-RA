@@ -147,7 +147,7 @@ STORY MODE
   0084 => Gordon (Fifth duel in Story Mode)
   007c => Jack Atlas (Sixth duel in Story Mode)
   006b => Kalin Kessler (Seventh duel in Story Mode)
-  007b => Yusei Fudo (Eight duel in Story Mode)
+  007b => Yusei Fudo (Eighth duel in Story Mode)
   00eb => Virgil (Ninth duel in Story Mode)
   00ed => Jemma (Tenth duel in Story Mode)
   00ec => Scotch (Eleventh duel in Story Mode)
@@ -172,6 +172,15 @@ STORY MODE
   0007 => Lenny (Thirtieth duel in Story Mode)
   00e1 => Hermann (Thirty-first duel in Story Mode)
   00e2 => Nicolas (Thirty-second duel in Story Mode)
+  00d0 => Primo (Thirty-third duel in Story Mode)
+  00d6 => Elsworth (Thirty-fourth duel in Story Mode)
+  00d5 => Sherry LeBlanc (Thirty-fifth duel in Story Mode)
+  00e8 => Dragan (Thirty-sixth duel in Story Mode)
+  00e9 => Brave (Thirty-seventh duel in Story Mode)
+  00e7 => Harald (Thirty-eighth duel in Story Mode) 
+  00d0 => Primo (Thirty-ninth duel in Story Mode)
+  00d1 => Lester (Fortieth duel in Story Mode)
+  00d2 => Jakob (Forty-first duel in Story Mode)
 
 --- End of progression duels
 
@@ -215,3 +224,4 @@ STORY MODE
   0067 => Lazar (NPC in right room of Stadium)
   008f => Alvaro (NPC in right room of Stadium)
   0022 => MC (NPC in Stadium)
+  001e => Rossi (NPC in the Duel Runner shop outside your apartment in New Domino)
